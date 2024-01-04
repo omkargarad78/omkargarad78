@@ -45,4 +45,6 @@ Enthusiastic Engineer hailing from Pune, India. My passion lies in creating inno
 :------------------------:|:----------------------: 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=omkargarad78&show_icons=true&locale=en)](https://git.io/streak-stats) | ![](https://github-readme-streak-stats.herokuapp.com/?user=omkargarad78&)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkargarad78&show_icons=true&locale=en&layout=compact" alt="omkargarad78" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkargarad78&show_icons=true&locale=en&layout=compact" alt="omkargarad78" />
+</p>
