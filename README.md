@@ -1,4 +1,4 @@
-### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I am Omkar G</p> 
+### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I am Omkar Garad</p> 
 
 Enthusiastic Engineer hailing from Pune, India. My passion lies in creating innovative solutions through code, blending creativity with my technical expertise
 
